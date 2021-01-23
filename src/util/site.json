@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Rants by Mishra",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Engineer ,fitness and productivity, books.\n\nI am Abhinav Mishra",
+    "siteUrl": "mishrants.netlify.app",
+    "image": "/assets/abhinav-mishrants-profile-picture.jpeg",
+    "iconimage": "/assets/android-chrome-512x512.png",
+    "twitterUsername": "@BetaPapa"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "G-8EJWFGM8D7"
 }
