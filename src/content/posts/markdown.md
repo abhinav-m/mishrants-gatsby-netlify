@@ -36,9 +36,9 @@ I found an opportunity when i came across our server logs. Working at a company 
 
 Since we had many levels of cache failovers, and Disaster recovery systems, these were rarely utilized, except when needed. Now this is a problem.
 
-I realized i can solve this problem using my newly acquired skills! After toying around with my log files (generated using javascript and node on the server side), I converted these to csv using python, performed simple EDA(Exploratory data analysis) and came up with a bunch of issues which we were facing which were going **unnoticed** for our website.\
-\
-Voila! 
+I realized i can solve this problem using my newly acquired skills! After toying around with my log files (generated using javascript and node on the server side), I converted these to csv using python, performed simple EDA(Exploratory data analysis) and came up with a bunch of issues which we were facing which were going **unnoticed** for our website.
+
+**Voila!**
 
 > The problem **turns into an oppurtunity** to improve your product using data science.
 
@@ -48,22 +48,23 @@ Why stop here? I generated a python script, which performed this conversion and 
 
 
 
-\## The Conclusion
+## The Conclusion
 
 You need business knowledge first. Coming from a technical background you can have tunnel vision when it comes towards the growth of the product.
 
-\> Always think product first
+> Always think product first
+
+
+### Things to consider
+
+* What metrics can be improved for your application ? Where are you struggling  ? - ***Areas for improvement***
+
+* Where are you showing growth ? - ***Areas for possible marketing***
+
+* What does your audience look like? Where are you lacking ? - **Understand Demographics and how you can improve**
+
+* Is there an intersection of technology you already know and your newly developed skills that you can apply? - ***For me this is web development and javascript. Some answers for me are A/B testing, log analysis (above) recommendation engines, demographics eda, analytic tools for the web and much more***
 
 
 
-What metrics can be improved for your application ? Where are you struggling  ? - ***Areas for improvement***
-
-Where are you showing growth ? - ***Areas for possible marketing***
-
-What does your audience look like? Where are you lacking ? - **Understand Demographics and how you can improve**
-
-Is there an intersection of technology you already know and your newly developed skills that you can apply? - ***For me this is web development and javascript. Some answers for me are A/B testing, log analysis (above) recommendation engines, demographics eda, analytic tools for the web and much more***
-
-
-
-Hope you found all this insightful, and helped you approach problems differently.
+Hope you found all this insightful, and helped you approach problems differently!.
