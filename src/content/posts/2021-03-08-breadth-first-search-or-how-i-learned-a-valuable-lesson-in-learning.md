@@ -12,14 +12,12 @@ featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
 ## A technical / philosophical overview:
 
 > Imagine a situation where you are standing on a road that diverges into 4 other roads. You are a skilled voyager, navigating through the harsh world, trying to reach your destiny. The only problem is ( and more so if you are like me), You don't know the path to your destiny!
->
->
 
 **Worry not, breadth first search to the rescue!**
 
 First, a definition from [Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search):
 
-So if you are standing on a road, that diverges to 4 different roads, you would technically explore all of these different roads **UNTIL** you move on to the next set of roads (* **which would include all of the roads which were a part of the 4 roads you just explored***)
+So if you are standing on a road, that diverges to 4 different roads, you would technically explore all of these different roads **UNTIL** you move on to the next set of roads ( **which would include all of the roads which were a part of the 4 roads you just explored**)
 
 ***BUT WHAT ARE THE ALTERNATIVES?***
 
@@ -47,7 +45,7 @@ The only drawback to this approach ? Well:
 
 Does this mean that these people spent their entire life doing a **depth first search** in the pursuit of excellence without knowing their destiny?
 
-Well, not really. 
+*Well*, **not really**. 
 
 Most of these athletes who compete at the highest level tend to start at a very early age during their childhood playing the sport they become veterans in.
 
@@ -98,36 +96,43 @@ I'll try to explain this approach through the example of data science, which I h
 1. Spend about half an hour coming up with a resource to study. 
 
    For me, this was Andrew Ng's course which was highly recommended and reputed
-
 2. Divide this resource into small manageable chunks ( break down into small chunks that i can do everyday)
 
    I did about an hour or two of lessons every weekday, and homework / assignments on the weekend. I work full time so this was about the time i could spare.
-
 3. Do each chunk, and if i lack knowledge in some particular area, gain some basic level of familiarity with it.
 
    The trick here is not to get overwhelmed with new material. I still have a list of to-dos to complete with regards to Andrew Ngs course ( which involves extra study materials, mathematics, and some other resources). I skimmed through these resources, and have set them up for picking up later.
-
 4. As soon as possible, convert these new learnings to practical mini projects
 
    After I completed Andrew Ngs course, i came up with small project ideas I could implement and started going through Kaggle's data science related problems, and applying my skills to the same.
 5. Plan the next iteration of this process , and improve incrementally.
 
-   After this first step, I have successfully achieved the following :
+
+
+After successfully applying this approach to data science, i have also achieved the following
 
 * Completed a course on Udemy involving python and machine learning
+
+<!---->
+
 * Did mini Kaggle courses 
+
+<!---->
+
 * Did mini projects related to above courses
+
+<!---->
+
 * Pitched and built a data science project to my current company
-* Currently, i plan on pursuing a book on statistics (Introduction to Statistical learning, and look forward to learning from the same.
 
+<!---->
 
+* Currently, I am going through a book on statistics (Introduction to Statistical learning, and look forward to learning from the same.
 
 > Apart from this, working on multiple problems after learning and not getting too much into the dense topics has made me understand these topics in a different context, solidifying my learning. (If i want to go really deep into some particular domain in data science, I would probably pick up the same sooner or later)
 
 Not fretting about perfection and making small incremental improvements , and exploring the problems of data science has made me familiar with the topic, and has improved my learning strategy by magnitudes.
 
  Currently I am also doing the same with regards to my pursuit of fitness (blog post coming soon!) and I strongly feel this approach will help you in your pursuit of knowledge.
-
-
 
 > **Next time you try to learn something, try BFS!**
