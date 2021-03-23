@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Breadth first search or how i learnt how to learn
-slug: breadth-first-search-in-real-life
+slug: breadth-first-search-and-the-learning-philosophy
 date: 2021-03-23 18:09
 description: breadth first search, learning, productivity, efficiency,
   technology, passion, life, philosophy, shortest path, projects
