@@ -5,7 +5,7 @@ slug: breadth-first-search-in-real-life
 date: 2021-03-23 18:09
 description: breadth first search, learning, productivity, efficiency,
   technology, passion, life, philosophy, shortest path, projects
-featuredImage: /assets/bfs-upload.png
+featuredImage: /assets/avery-klein-c_drtsnboqa-unsplash.jpg
 ---
 # Breadth first search - The shortest path
 
