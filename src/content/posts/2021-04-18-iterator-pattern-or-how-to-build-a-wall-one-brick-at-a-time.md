@@ -23,22 +23,14 @@ description: >
 **Michael Jordan** , in the popular documentary "The Last Dance" by Netflix , says something that would feel uncomfortably familiar to most of us, yet we don't seem to follow it.
 
 > **Why** would I worry about a shot that I haven't taken yet?
->
->
 
 **Seneca,** the great roman stoic philosopher also had a quote about worrying about the future:
 
 > He **suffers more** than necessary ,**who suffers before** it is necessary” — Seneca
 
-
-
 Will Smith, the successful Hollywood actor has a very famous interview on YouTube where he explains his philosophy about his work:
 
-
-
 > You don't set out to **build a wall**. You **don't say I'm going to build the biggest, baddest, greatest wall** that's ever been built. You don't start there. You **say I'm gonna lay this brick as perfectly as a brick can be laid** and you do that **every single day**, **and soon you have a wall.**
-
-
 
 A few weeks ago, I was reading about the popular design pattern used in programming languages ubiquitously known as the [iterator pattern](https://en.wikipedia.org/wiki/Iterator_pattern) which struck me as philosophical in nature.
 
@@ -66,7 +58,7 @@ for (number of range(1, 5)) {
 }
 ```
 
-If you are unfamiliar with JavaScript, the above `range `function, does exactly what the python range function does, generate numbers in the range of`1 - 5` (end exclusive)
+If you are unfamiliar with JavaScript, the above `range`function, does exactly what the python range function does, generate numbers in the range of`1 - 5` (end exclusive)
 
 Here's the same code written using Java:
 
@@ -127,3 +119,7 @@ console.log(`Are you done? ${it.next().done}`);  //-> true
 ```
 
 All of these examples have been taken from [Wikipedia](https://en.wikipedia.org/wiki/Iterator_pattern), and the design pattern itself is used extensively throughout  multiple programming languages. But how does it tie into philosophy?
+
+
+
+Well, iterators can represent real life in a lot of ways.
