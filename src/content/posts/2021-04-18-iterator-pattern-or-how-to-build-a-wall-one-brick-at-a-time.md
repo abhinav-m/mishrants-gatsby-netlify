@@ -120,6 +120,10 @@ console.log(`Are you done? ${it.next().done}`);  //-> true
 
 All of these examples have been taken from [Wikipedia](https://en.wikipedia.org/wiki/Iterator_pattern), and the design pattern itself is used extensively throughout  multiple programming languages. But how does it tie into philosophy?
 
-
-
 Well, iterators can represent real life in a lot of ways.
+
+Let us try to think of what iterators do in a way that represents real life.
+
+In the above **range iterators example,** we are generating a sequence of numbers (end exclusive) where the numbers themselves are not generated *beforehand.*  Taking a more philosophical look at this, I like to think of iterators as working on something one thing (*or brick if you have been reading closely)* at a time. 
+
+Iterators ***do not worry*** about the **future, or the past**. All they care about is the present. In the range iterators example, the iterator has the current value of the range, until it's done condition is reached. In the **reverseArrayIterator** just above, the iterator only cares about the current index of the array, starting from the last index.
