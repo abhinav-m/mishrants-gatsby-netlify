@@ -4,7 +4,7 @@ title: Losing weight , Learning Discipline
 slug: losing-weight-learning-discipline-journey
 date: 2021-08-13 17:31
 description: How to build discipline and lose weight by forming good habits and consistency
-featuredImage: /assets/abhinav-mishrants-profile-picture.jpeg
+featuredImage: /assets/bef_aft.jpeg
 ---
 **First the stats:**
 
