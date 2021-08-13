@@ -19,6 +19,7 @@ description: >
 
 
   A few weeks ago, I was reading about the popular design pattern used in programming languages everywhere known as the iterator pattern which struck me as philosophical in nature.
+featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
 ---
 **Michael Jordan** , in the popular documentary "The Last Dance" by Netflix , says something that would feel uncomfortably familiar to most of us, yet we don't seem to follow it.
 
@@ -126,4 +127,20 @@ Let us try to think of what iterators do in a way that represents real life.
 
 In the above **range iterators example,** we are generating a sequence of numbers (end exclusive) where the numbers themselves are not generated *beforehand.*  Taking a more philosophical look at this, I like to think of iterators as working on something one thing (*or brick if you have been reading closely)* at a time. 
 
-Iterators ***do not worry*** about the **future, or the past**. All they care about is the present. In the range iterators example, the iterator has the current value of the range, until it's done condition is reached. In the **reverseArrayIterator** just above, the iterator only cares about the current index of the array, starting from the last index.
+Iterators ***do not worry*** about the **future, or the past**. All they care about is the present. In the range iterators example, the iterator has the current value of the range, until it's done condition is reached. In the **reverseArrayIterator** just above, the iterator only cares about the current index of the array, starting from the last index.\
+\
+So how does this relate to life? 
+
+The entire philosophy boils down to dealing with things **one at a time.**
+
+If you focus on building daily goals, daily habits, and consistent work, you will be surprised from the outcomes you can reach. Take a goal, break it down into a habit, and repeat it with consistency, just like an iterator, till you reach the desired outcome. \
+\
+People tend to overthink about the goal, or the past (which are tough mental battles to fight against). \
+\
+Remember:
+
+
+
+
+
+> “Yesterday is history, tomorrow is a mystery, and today is a gift––that is why it is called the present.”
